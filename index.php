@@ -6,6 +6,7 @@
  <script src="meuScript.js"></script>
 </head>
 <body>
+ <? echo "Testando PHP";?>
 
 <h1>Disciplina de INTW:</h1>
 <p id="paragrafo1">Testando Servidor <b>000webhost </b></p>
